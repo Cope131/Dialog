@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string-array name="color_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="date_add_array">
+        <item>Day of Week</item>
+    </string-array>
+    <string-array name="date_format_array">
+        <item>dd/mm/yyyy</item>
+        <item>mm/dd/yyyy</item>
+        <item>yyyy/mm/dd</item>
+    </string-array>
+    <string-array name="hour_format">
+        <item>24 hour</item>
+        <item>12 hour</item>
+    </string-array>
+</resources>
